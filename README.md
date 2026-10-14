@@ -40,7 +40,7 @@ Open the project folder in your code editor (such as Visual Studio Code).
 
 To view and run the project locally:
 
-Open the index.html file directly in your web browser, OR
+Open the index.html file directly in your web browser,OR
 
 Use a live server extension (like Live Server in VS Code) for the best development experience with live reloading.
 
